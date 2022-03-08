@@ -61,6 +61,7 @@ function uploadTransaction() {
                     const transObjStore = transaction.objectStore('new_transaction');
                     // clear all items in your store
                     transObjStore.clear();
+                    alert('Transaction(s) posted successfully!')
                 })
                 .catch(err => {
                     // set reference to redirect back here
