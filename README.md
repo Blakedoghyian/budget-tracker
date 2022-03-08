@@ -14,6 +14,7 @@
   * [Criteria](#criteria)
   * [Contributors](#contribution)
   * [Licenses](#license)
+  * [Heroku](#heroku)
   * [Repository](#repository)
   * [Questions](#questions)
 
