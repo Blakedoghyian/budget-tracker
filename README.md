@@ -47,7 +47,7 @@
 
   ## Heroku
   
-  * [Heroku Live Deployed Link] (https://blakes-budget-tracker-01.herokuapp.com)
+  * [Heroku Live Deployed Link](https://blakes-budget-tracker-01.herokuapp.com)
 
   ## Repository
 
